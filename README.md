@@ -8,7 +8,7 @@ Example Video: [Citizen Kane (1941)](https://www.youtube.com/watch?v=ej8c0NwKW00
 ```python
 #This repository only works on Windows PCs
 #Clone the Git repository:
-git clone https://github.com/keithhb33/AI-Movie-Shorts.git
+git clone https://github.com/Ankita/AI-Movie-Shorts.git
 
 #Navigate to the cloned repo:
 cd AI-Movie-Shorts
